@@ -22,4 +22,4 @@ To start the game: 1- Execute ```make``` command in the directory where Makefile
 
 There aren't any official documentation of MiniLibX library. Therefore, most of the time, to understand how a function works, comments of the functions in the source code of the library could be useful. However there are some unofficial documentations which were made by 42 students. One of them was done by hsmits and jvan-sni. To find it click <a href="https://harm-smits.github.io/42docs/libs/minilibx">here</a>.
 
-To find more detail about the project click <a href="en.subject.pdf">here</a>.
+To find more details about the project click <a href="en.subject.pdf">here</a>.
